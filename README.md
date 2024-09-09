@@ -1,4 +1,4 @@
-# EEG Signal Processing CHW2
+# EEG Signal Processing Second Project
 
 ## Overview
 
